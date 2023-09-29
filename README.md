@@ -13,3 +13,5 @@ Olá, eu sou o Lucas Ryan 👋<br><br>- 💻 Cursando Sistemas e Mídias Digitai
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luryian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/luryian/luryian/blob/output/github-contribution-grid-snake.svg)

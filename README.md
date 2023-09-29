@@ -14,4 +14,4 @@ Olá, eu sou o Lucas Ryan 👋<br><br>- 💻 Cursando Sistemas e Mídias Digitai
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/luryian/luryian/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/luryian/luryian/blob/output/github-contribution-grid-snake.svg) -->
